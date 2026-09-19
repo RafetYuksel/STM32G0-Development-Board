@@ -1,1 +1,2 @@
-
+cd Hardware
+mkdir Schematic PCB BOM Outputs 3D
