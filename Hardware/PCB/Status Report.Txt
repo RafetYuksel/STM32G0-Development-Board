@@ -1,0 +1,17 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 1:10:10 AM On 9/19/2026
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [STM32G0_DevBoard.CMPcbDoc.PCBDoc]
+   Generated File[STM32G0_DevBoard.CMPcbDoc-RoundHoles.TXT]
+   Generated File[STM32G0_DevBoard.CMPcbDoc-SlotHoles.TXT]
+   Generated File[STM32G0_DevBoard.CMPcbDoc.LDP]
+   Generated File[STM32G0_DevBoard.CMPcbDoc.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 1:10:10 AM On 9/19/2026
