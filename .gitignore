@@ -1,0 +1,30 @@
+# Altium / CircuitMaker Generated Files
+History/
+Project Logs*/
+Project Outputs*/
+__History/
+
+# Temporary and Backup Files
+*.PcbDoc.htm
+*.SchDoc.htm
+*.Annotation
+*.LOG
+*.log
+*.ERR
+*.err
+*.Bak
+*.bak
+*.tmp
+*.~*
+
+# Workspace & User Preference Files
+*.CWks
+*.Workspace
+*.DSNWork
+*.UserSearch
+*.Tile
+*.lock
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
